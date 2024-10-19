@@ -102,7 +102,7 @@
                 "desc": "Este servicio alisa, levanta y estira las pestañas suavemente. El Lifting se recomienda para corregir las pestañas rectas, descendientes o con remolinos. Se realiza perfilado de cejas a modo de obsequio."
               },
               {
-                "title": "Depilación facial - Valor $3000",
+                "title": "Depilación facial - Valor $3000 ",
                 "desc": "Se realiza con cera descartable PREMIUM finalizando dicho servicio con un protector solar y completando asi un tratamiento integral para el rostro."
               },
               {
@@ -117,15 +117,15 @@
             "defaultTreatmentImg": 2,
             "treatments": [
               {
-                "title": "Microexfoliación - Valor $6000",
+                "title": "Microexfoliación - Valor $6000 ",
                 "desc": "Este servicio induce la renovación de las capas superficiales de la piel ayudando a eliminar finas arrugas y manchas brindando un aspecto rejuvenecido. Lo realizamos con aparatolgía como ser Microdermoabrasión o de manera química, con ácidos."
               },
               {
-                "title": "Limpieza profunda + Hidratación - Valor $10000",
+                "title": "Limpieza profunda + Hidratación - Valor $10000 ",
                 "desc": "La piel del rostro requiere un cuidado especial, distinta a la del cuerpo, por lo tanto se utilizan productos sin parabenos y con un ph especifico para su cuidado. Para la Hidratación utilizamos Serum's y Máscaras propias para cada fototipo cutáneo."
               },
               {
-                "title": "Criofrecuencia Facial - Valor $12000",
+                "title": "Criofrecuencia Facial - Valor $12000 ",
                 "desc": "Es un tratamiento estético, que combina radiofrecuencia con frío; la radiofrecuencia estimula los fibroblastos, que son las células que fabrican el colágeno, por lo tanto, obtenemos una piel radiante y estimulada al final de dicho tratamiento."
               }
             ]
@@ -140,15 +140,15 @@
                 "desc": "Es un tratamiento no-invasivo que reduce la celulitis, y que modela el contorno corporal. Junto con el masaje, para la movilización de grasas y la radiofrecuencia bipolar es excelente para la destrucción de adiposidades localizadas y reafirmación de la piel."
               },
               {
-                "title": "DermoHealth - Valor $8000",
+                "title": "DermoHealth - Valor $8000 ",
                 "desc": "Esta tecnología logra resultados inmediatos para modelado corporal. Está especialmente indicada para combatir la celulitis, convirtiéndolo en el complemento ideal de nuestra terapia de reducción, HImFU. Entre sus beneficios observamos que es no invasiva, mejora la circulación y relaja y estimula las zonas tratadas."
               },
               {
-                "title": "Criofrecuencia - Valor $15000",
+                "title": "Criofrecuencia - Valor $15000 ",
                 "desc": "Se trata de un innovador tratamiento corporal que está especialmente pensado para combatir la flacidez, la grasa acumulada y la celulitis, mejorando la silueta devolviendo al cuerpo su tersura y firmeza. Se acompaña el tratamiento con YESOTERAPIA para mayores resultados."
               },
               {
-                "title": "Ultracavitación - Valor $12000",
+                "title": "Ultracavitación - Valor $12000 ",
                 "desc": "La ultracavitación es una técnica reductora cuya principal finalidad es eliminar los depósitos de grasa acumulados en el cuerpo de una manera no invasiva, es decir, sin recurrir a cirugía. Las zonas tratadas con ultracavitación son los muslos, las caderas, los brazos y el abdomen. Se aconseja acompañar dicho tratamiento con masajes localizados y fajas de compresión."
               }
             ]
