@@ -4,7 +4,7 @@ import { NextAuthOptions } from 'next-auth'
 import CredentialsProvider from 'next-auth/providers/credentials'
 import { AppError } from '@/helpers'
 
-const secret = process.env.NEXTAUTH_SECRET
+const secret = process.env.NEXTAUTH_
 
 const authOptions: NextAuthOptions = {
   providers: [
